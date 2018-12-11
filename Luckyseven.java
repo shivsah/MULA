@@ -66,36 +66,3 @@ public String toString()
 }
 
 
-
-
-
-
-
-//PLEASE EXPLAIN WHAT NEEDS TO BE DONE HERE!!!!!!!!!!!!!!!
-
-public class Dice2Av
-{
- public static void main(String[] args){
-     Scanner input = new Scanner(System.in);
-     Luckyseven dice = new Luckyseven();
-     dice.roll();
-     dice.getDollars();
-    
-     int d =input.nextInt();
-     dice.setDollars(d);
- 
- 
-
- 
-
-
-
-
-
-
-}
-}
-
-
-
-
